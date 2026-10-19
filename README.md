@@ -8,6 +8,16 @@ Enter the desired mean and SD of initial age, along with the upper and lower age
 
 [Link to run the tool](https://virginia-apps.shinyapps.io/AgeFitter/)
 
+### Contact Information
+Please email [MPEC Programming](mpecprogramming@partnershealthcare.onmicrosoft.com) with any questions or issues related to the Age Fitter Tool. 
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Disclaimer
+
+The Age Fitter Tool source code is provided by the Medical Practice Evaluation Center (MPEC) at Massachusetts General Hospital in Boston, MA, USA for interested readers and reviewers. This repository does not include data sources, populated project-specific input files, or comprehensive instructions on how to derive input parameters. We are not responsible or liable for third party use of this model and cannot endorse any results obtained through the Age Fitter Tool by users not associated with the MPEC.
+
 
 
 
